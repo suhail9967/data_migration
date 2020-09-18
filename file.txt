@@ -3,7 +3,5 @@ How are you.
 Welcome to delhi
 hello indicsoft
 Hello jenkins
-I am triggering my jobs to jenkins.
-i am performing a testing job task
 Hello Jenkins Admin
 Hello docker.
